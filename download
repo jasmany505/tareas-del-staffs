@@ -1,5 +1,0 @@
-# Do not commit local environment files or private credentials
-.env
-.env.*
-!.env.example
-.DS_Store
